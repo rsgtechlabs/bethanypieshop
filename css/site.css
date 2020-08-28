@@ -5,3 +5,16 @@ body {
     background-image: url('../images/pattern.png');
     background-repeat: repeat;
 }
+
+.bg-primary{
+    background-color:  #e83e8c !important;
+}
+
+.jumbotron-detail-apple-pie{
+    background: url('../images/products/applepie.jpg') no-repeat fixed;
+}
+
+
+.jumbotron{
+    height: 40vh;
+}
